@@ -1,1 +1,1 @@
-# Shoter
+# shooter_game
